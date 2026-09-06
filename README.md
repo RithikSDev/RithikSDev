@@ -3,7 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hi%2C%20I'm%20Rithik%20%F0%9F%91%8B&fontSize=48&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=I%20build%20AI%20agents%20that%20do%20real%20work&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/RithikSDev">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=600&lines=Agentic+AI+Engineer;AI+Agents+%7C+RAG+%7C+MCP+Servers;FastAPI+Backends+%7C+Postgres;Python+%7C+SQL+%7C+Power+BI+%7C+Odoo;Turning+data+into+decisions+%F0%9F%9A%80" alt="Typing SVG" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&lines=Agentic+AI+Engineer;AI+Agents+%7C+RAG+%7C+MCP+Servers;FastAPI+Backends+%7C+Postgres;Python+%7C+SQL+%7C+Power+BI+%7C+Odoo;Turning+data+into+decisions+%F0%9F%9A%80">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0D9488&center=true&vCenter=true&width=600&lines=Agentic+AI+Engineer;AI+Agents+%7C+RAG+%7C+MCP+Servers;FastAPI+Backends+%7C+Postgres;Python+%7C+SQL+%7C+Power+BI+%7C+Odoo;Turning+data+into+decisions+%F0%9F%9A%80" alt="Typing SVG" />
+</picture>
 </a>
 
 </div>
