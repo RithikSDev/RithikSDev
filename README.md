@@ -64,8 +64,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RithikSDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&count_private=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RithikSDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e94560" height="165" alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RithikSDev&theme=tokyonight" height="165" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RithikSDev&theme=tokyonight" height="165" alt="Top languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RithikSDev&theme=tokyonight&hide_border=true&background=1a1a2e&ring=e94560&fire=e94560&currStreakLabel=e94560" alt="GitHub streak"/>
 
